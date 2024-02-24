@@ -4,6 +4,7 @@ Bu proje, kullanıcılara film önizlemelerini görüntülemelerine olanak tanı
 ## :wrench: Teknik Özellikler
 
 - <b>HTML, CSS ve JavaScript</b> kullanılarak oluşturulmuştur.
+- **React, React Hooks ve React DOM** kullanılarak geliştirilmiştir.
 - <b>The Movie Database (TMDb) API</b> kullanılarak film verileri alınmıştır.
 - Bootstrap kütüphanesi kullanılarak temel tasarım yapılmıştır.
 - <b>Kullanıcılar, filmlerin adını, afişini, tanıtım metnini ve puanını görebilirler.</b>
