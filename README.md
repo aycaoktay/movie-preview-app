@@ -1,19 +1,21 @@
-# :bulb:Movie Preview App
+# 💡Movie Preview App
 
-Bu proje, kullanıcılara film önizlemelerini görüntülemelerine olanak tanıyan basit bir web uygulamasıdır.
-## :wrench: Teknik Özellikler
+This project is a simple web application that allows users to view movie previews.
 
-- <b>HTML, CSS ve JavaScript</b> kullanılarak oluşturulmuştur.
-- **React, React Hooks ve React DOM** kullanılarak geliştirilmiştir.
-- <b>The Movie Database (TMDb) API</b> kullanılarak film verileri alınmıştır.
-- Bootstrap kütüphanesi kullanılarak temel tasarım yapılmıştır.
-- <b>Kullanıcılar, filmlerin adını, afişini, tanıtım metnini ve puanını görebilirler.</b>
-- <b>Kullanıcılar, arama özelliği ile istedikleri filmleri bulabilirler.</b>
-- <b>Film detayları, modal penceresinde açılarak daha fazla bilgi görüntülenebilir.</b>
-- <b>Responsive</b> tasarım sayesinde farklı ekran boyutlarında kullanılabilir.
+## 🔧 Technical Specifications
 
-## :camera:Ekran Görüntüleri
-![Proje Önizlemesi](https://github.com/aycaoktay/movie-preview-app/blob/main/screenshots/main.png)
-![Proje Önizlemesi](https://github.com/aycaoktay/movie-preview-app/blob/main/screenshots/choosecategory.png)
-![Proje Önizlemesi](https://github.com/aycaoktay/movie-preview-app/blob/main/screenshots/searching.png)
-### 🌐 **Proje GitHub Pages'te:** [Movie Preview App](https://aycaoktay.github.io/20Days20Projects/movieApp/) - Projenin GitHub Pages üzerindeki yayınına buradan erişebilirsiniz.
+- It is created using **HTML, CSS, and JavaScript**.
+- Developed with **React, React Hooks, and React DOM**.
+- Movie data is fetched using **The Movie Database (TMDb) API**.
+- Basic design is implemented using the Bootstrap library.
+- **Users can see the title, poster, overview, and rating of movies.**
+- **Users can find desired movies using the search feature.**
+- **Movie details can be viewed in a modal window for more information.**
+- **Responsive** design allows for usage on different screen sizes.
+
+## 📷 Screenshots
+![Project Preview](https://github.com/aycaoktay/movie-preview-app/blob/main/screenshots/main.png)
+![Project Preview](https://github.com/aycaoktay/movie-preview-app/blob/main/screenshots/choosecategory.png)
+![Project Preview](https://github.com/aycaoktay/movie-preview-app/blob/main/screenshots/searching.png)
+
+### 🌐 **Project on GitHub Pages:** [Movie Preview App](https://aycaoktay.github.io/20Days20Projects/movieApp/) - You can access the project's deployment on GitHub Pages from here.
